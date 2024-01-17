@@ -1,0 +1,39 @@
+Video Stitch--088
+
+General:
+System ID: 	100-1200-2200
+Start Time: 	11:43:24 AM
+Start Date: 	Monday, October 10, 2022
+Duration: 	0h 0m 17s
+User Name: 	Witec
+
+Video System:
+Objective Name: 	Zeiss EC Epiplan 5x / 0.13
+Objective Magnification: 	5
+Image Width [µm]: 	4826.180
+Image Height [µm]: 	4826.180
+Camera Exposure [s]: 	1/25
+Camera Gain [dB]: 	0.00
+
+Illumination:
+Reflection Light [%]: 	Off
+Transmission Light [%]: 	2.93
+
+Stitching Settings:
+Stitching Table: 	Sample Positioner
+
+Size X [Pixel]: 	1024
+Size Y [Pixel]: 	1024
+
+Origin X [µm]: 	0.000
+Origin Y [µm]: 	0.000
+Origin Z [µm]: 	1.080
+Gamma [°]: 	0.0
+
+Number of Stitching Images: 	16
+Number of Stitching Images X: 	4
+Number of Stitching Images Y: 	4
+
+Scan Table:
+Position X [µm]: 	0.000
+Position Y [µm]: 	0.000
