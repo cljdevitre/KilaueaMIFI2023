@@ -1,0 +1,7 @@
+meta_path=p:\WORK-GENERAL\POSTDOC-UCB\BERKELEY-VIBE\Documents\Projects\Data\Hawaii_FI\MIFI_paper\Revised submission GPL\RefitData\MetaData
+spectra_path=p:\WORK-GENERAL\POSTDOC-UCB\BERKELEY-VIBE\Documents\Projects\Data\Hawaii_FI\MIFI_paper\Revised submission GPL\RefitData\Spectra
+filetype=headless_txt
+prefix=True
+prefix_str=' '
+file_ext=.txt
+TruPower=True
